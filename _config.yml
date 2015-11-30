@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://taa2125.github.io
+title: Tyler's Take on Transport Phenomena
+email: taa2125@columbia.edu
+author: Tyler Alexander Allen
+description: A blog for Professor McNeil's Transport Phenomena I class. 
+paginate: 6
+google_analytics: 
